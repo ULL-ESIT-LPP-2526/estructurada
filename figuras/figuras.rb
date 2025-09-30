@@ -1,4 +1,4 @@
-#! /home/usuario/.rvm/rubies/ruby-2.7.2/bin/ruby 
+#! /usr/local/rvm/gems/ruby-3.4.1/bin/ruby
 # Ejemplo de Programación Estructurada o Modular
 
 def perimetro_cuadrado(longitud_lado)
